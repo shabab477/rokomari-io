@@ -19,3 +19,5 @@ Rokomari has decided to give you some books for free and you will also be given 
 `4 5 6`
 ##### Sample Output:
 `Case 1: 150`
+
+**Explanation of sample input:** Picking `5` first will result in `(4 * 5 * 6)`. Then, picking 4 will result in `(4 * 6)`. Then picking 6 will result in `(6)`. Profit: `(4 * 5 * 6) + (4 * 6) + 6` = `150`
