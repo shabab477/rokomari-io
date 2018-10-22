@@ -13,7 +13,9 @@ Rokomari has decided to give you some books for free and you will also be given 
 
 ##### Sample Input:
 `1`
+
 `3`
+
 `4 5 6`
 ##### Sample Output:
 `Case 1: 150`
